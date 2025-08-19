@@ -6,6 +6,11 @@ A local Model Context Protocol (MCP) server that provides your AI agents with co
 
 The `whoami` MCP server acts as a personal knowledge base that AI agents can query to understand your identity, work situation, preferences, schedule, projects, and goals. Instead of repeatedly explaining your background in every conversation, your AI assistant can automatically access relevant context about you.
 
+## TODO
+
+Add support for custom data categories/generalize tools to handle any data category
+Implement RAG/GraphRAG for more advanced context retrieval
+
 ## Features
 
 ### Information Categories
