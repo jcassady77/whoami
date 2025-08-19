@@ -1,0 +1,26 @@
+Daily Schedule:
+- 8:00 AM: Coffee & email check
+- 9:00 AM - 12:00 PM: Deep work (research/coding)
+- 12:00 PM - 1:00 PM: Lunch break
+- 1:00 PM - 3:00 PM: Meetings & collaboration
+- 3:00 PM - 5:00 PM: Code reviews & mentoring
+- 5:00 PM - 6:00 PM: Admin tasks & planning
+
+Weekly Patterns:
+- Monday: Team standup (10 AM), 1:1s with reports
+- Tuesday: Research focus day, minimal meetings
+- Wednesday: Cross-team collaboration day
+- Thursday: Client meetings & demos
+- Friday: Code reviews, retrospectives, learning time
+
+Regular Meetings:
+- Team Standup: Mon/Wed/Fri 10:00 AM (30 min)
+- AI Research Review: Tuesdays 2:00 PM (60 min)
+- 1:1 with Manager: Thursdays 11:00 AM (30 min)
+- Department All-Hands: First Friday of month 3:00 PM
+
+Time Preferences:
+- Best for complex work: 9 AM - 1 PM
+- Good for meetings: 1 PM - 4 PM
+- Avoid scheduling after 5 PM
+- No meetings before 9 AM or on Tuesday mornings

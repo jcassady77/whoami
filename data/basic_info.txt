@@ -1,0 +1,15 @@
+Name: Dr. Alex Morgan Chen
+Email: alex.chen@innovatetech.com
+Phone: +1 (555) 123-4567
+Location: San Francisco, CA, USA
+Time Zone: Pacific Time (UTC-8)
+Age: 34
+Pronouns: they/them
+Languages: English (native), Mandarin (fluent), Spanish (conversational)
+
+Personal Details:
+- Born in Vancouver, Canada
+- Moved to SF in 2018 for work
+- Lives in Mission District
+- Has a rescue dog named Pixel
+- Enjoys rock climbing and photography

@@ -1,0 +1,25 @@
+Current Role: Senior AI Research Engineer & Team Lead
+Company: InnovateTech Solutions
+Department: Advanced AI Research Division
+Reports to: VP of Engineering, Sarah Kim
+Direct Reports: 4 engineers (Maya, James, Priya, Carlos)
+
+Career History:
+- 2021-Present: Senior AI Research Engineer, InnovateTech Solutions
+- 2018-2021: Machine Learning Engineer, DataFlow Analytics
+- 2016-2018: Research Scientist, University of Toronto AI Lab
+- 2014-2016: PhD in Computer Science, Stanford University
+
+Core Skills:
+- Deep Learning & Neural Networks
+- Natural Language Processing
+- Computer Vision
+- MLOps & Production Systems
+- Team Leadership & Mentoring
+- Research & Academic Writing
+
+Recent Achievements:
+- Led team that increased model accuracy by 23%
+- Published 3 papers in top-tier AI conferences (2023)
+- Received "Innovation Award" at InnovateTech (2022)
+- Mentored 2 junior engineers to promotion

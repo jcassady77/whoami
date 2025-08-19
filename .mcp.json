@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mcp-python-sdk": {
+      "type": "http",
+      "url": "https://gitmcp.io/modelcontextprotocol/python-sdk"
+    }
+  }
+}

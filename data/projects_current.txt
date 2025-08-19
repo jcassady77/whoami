@@ -1,0 +1,32 @@
+Active Projects (Q4 2024):
+
+1. Project: Neural Architecture Search Platform
+   Status: 70% complete
+   Deadline: December 15, 2024
+   Role: Technical Lead
+   Team: Maya (ML Engineer), James (Backend), Priya (Frontend)
+   Priority: High
+   Next Milestone: Beta testing with internal teams (Nov 30)
+
+2. Project: Customer Intent Prediction Model
+   Status: 45% complete  
+   Deadline: January 31, 2025
+   Role: Research Lead
+   Team: Carlos (Data Scientist), External consultant (Dr. Kim)
+   Priority: Medium
+   Next Milestone: Complete data preprocessing pipeline (Dec 10)
+
+3. Project: AI Ethics Framework Implementation
+   Status: 30% complete
+   Deadline: March 1, 2025
+   Role: Contributing Researcher
+   Team: Cross-functional team of 8 people
+   Priority: Medium
+   Next Milestone: Draft policy recommendations (Jan 15)
+
+Current Responsibilities:
+- Weekly progress reviews for all projects
+- Code architecture decisions for NAS Platform
+- Research paper writing for Intent Prediction work
+- Mentoring Maya on advanced ML techniques
+- Client presentation for NAS Platform demo (Dec 5)

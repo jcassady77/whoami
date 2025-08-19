@@ -1,0 +1,38 @@
+Programming Languages:
+- Python (Expert) - Primary language for ML/AI work
+- JavaScript/TypeScript (Proficient) - Frontend and Node.js
+- SQL (Proficient) - Database queries and optimization
+- R (Intermediate) - Statistical analysis
+- Go (Learning) - Microservices development
+
+AI/ML Frameworks:
+- PyTorch (Expert) - Preferred for research
+- TensorFlow/Keras (Proficient) - Production models
+- Hugging Face Transformers (Expert) - NLP work
+- scikit-learn (Expert) - Classical ML
+- OpenAI API (Proficient) - Integration work
+
+Development Tools:
+- Git/GitHub (Expert) - Version control
+- Docker (Proficient) - Containerization
+- Kubernetes (Intermediate) - Orchestration
+- VS Code (Expert) - Primary IDE
+- Jupyter Notebooks (Expert) - Research and prototyping
+
+Cloud & Infrastructure:
+- AWS (Proficient) - SageMaker, EC2, S3
+- Google Cloud (Intermediate) - Vertex AI, BigQuery
+- MLflow (Proficient) - Experiment tracking
+- Weights & Biases (Expert) - ML monitoring
+
+Databases:
+- PostgreSQL (Proficient) - Primary database
+- MongoDB (Intermediate) - Document storage
+- Redis (Intermediate) - Caching
+- Vector databases (ChromaDB, Pinecone) - Embeddings
+
+Preferred Tech Stack:
+- Backend: Python + FastAPI + PostgreSQL
+- Frontend: React + TypeScript
+- ML Pipeline: PyTorch + MLflow + Docker
+- Deployment: AWS + Kubernetes
